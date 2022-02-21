@@ -1,0 +1,233 @@
+{
+  "common": {
+    "topbar": {
+      "logo": {
+        "alt_text": "Alt mall brand logo"
+      },
+      "search": {
+        "placeholder": "Search products, brands, items and categories",
+        "btn": "Search"
+      },
+      "account_menu": {
+        "title": "Account",
+        "sign_in": "Sign In",
+        "sign_out": "Sign Out",
+        "profile": "Profile",
+        "order_history": "Order History",
+        "track_orders": "Track Orders",
+        "wallet": "Wallet",
+        "help": "Help Center (FAQs)",
+        "raise_ticket": "Raise a Ticket"
+      },
+      "wishlist": {
+        "title": "Wishlist"
+      },
+      "cart": {
+        "title": "Cart"
+      }
+    },
+    "sidebar": {
+      "greeting": "Hi",
+      "profile_name": "Account",
+      "categories": {
+        "title": "Categories",
+        "page_link": "See All",
+        "mega_menu_banner_alt": "Category ads",
+        "back_to_main_menu": "Back to"
+      }
+    },
+    "links": {
+      "back": "Back",
+      "submit": "Submit",
+      "resend": "Resend a new code",
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy",
+      "copyright": "Copyrights {{year}} All Rights Reserved. Altmall.",
+      "continue": "Continue"
+    },
+    "seller_information": {
+      "header": {
+        "home": "Home",
+        "maincateory_title": "Electronics",
+        "subcategoriy_title": "Camera",
+        "brand_title": "Canon",
+        "product_title": "Canon EOS 5D Mark IV DSLR Camera With 24-105mm F/4L II Lens",
+        "sellerinfo_title": "Seller Information"
+      },
+      "body": {
+        "sellername": "Justin James Camera"
+      }
+    }
+  },
+  "auth": {
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "first_name": "First name",
+      "last_name": "Last name"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password?",
+      "subtitle": "Please enter you email and we’ll send you instructions to reset your password",
+      "confirmPassword": "Confirm New Password",
+      "password": "New Password",
+      "resetTitle": "Setup New Password",
+      "resetButton": "Create New Password",
+      "successTitle": "New Password Successfully Created",
+      "successSubTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor"
+    },
+    "login": {
+      "signIn": "Sign In",
+      "title": "Sign in to your altmall account",
+      "google": "Signin with Google",
+      "facebook": "Signin with Facebook"
+    },
+    "signup": {
+      "createAccount": "Create Account",
+      "title": "Create altmall account",
+      "google": "Signup with Google",
+      "facebook": "Signup with Facebook",
+      "agreement": "By clicking Create Account, you acknowledge you have read and agreed to our"
+    },
+    "emailVerification": {
+      "title": "Authenticate Your Account",
+      "subtitle": "Please confirm your account by entering the authorization code sent to your {{email}}",
+      "footer": "It may take a minute to receive your code. Havent received it yet?",
+      "successTitle": "Your Email was Successfully Verified",
+      "successSubTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor"
+    },
+    "twoAuthLogin": {
+      "title": "Two Factor Login",
+      "subtitle": "Please confirm your account by entering the authorization code sent to your {{email}}",
+      "footer": "It may take a minute to receive your code. Havent received it yet?",
+      "successTitle": "Token verified, you will be redirected to the dashboard",
+      "successSubTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor"
+    }
+  },
+  "product_filter": {
+    "search": "Search"
+  },
+  "faq": {
+    "mainContent": {
+      "title": "Frequently Asked Questions"
+    },
+    "sidebar": {
+      "firstSideBarTitle": "Help Topics",
+      "secondSideBarTitle": "Other Help",
+      "cutomerGreeting": "Hi"
+    }
+  },
+  "orderHistory": {
+    "emptyHistory": {
+      "title": "You have no order history",
+      "description": "You have not made any order, please search for your peoducts and make an order to view history here",
+      "replyTo": "Reply to place an order?",
+      "startShopping": "Start shopping"
+    },
+    "nonEmptyHistory": {
+      "title": "Order History",
+      "orderNo": "Order No:",
+      "status": "Status:",
+      "dateDelivered": "Date Ordered:",
+      "orderDetailsBtn": "View Order Details"
+    }
+  },
+  "wishlist": {
+    "emptyWishlist": {
+      "title": "You have nothing in your wishlist",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "startShopping": "Start shopping"
+    },
+    "nonEmptyWishlist": {
+      "title": "My Wish List",
+      "firstBtn": "Add to Cart",
+      "secondBtn": "Delete"
+    }
+  },
+  "cart": {
+    "emptyCart": {
+      "title": "You have nothing in your wishlist",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "startShopping": "Start shopping"
+    },
+    "nonEmptyCart": {
+      "title": "Cart Item",
+      "quantity": "Quantity",
+      "unitPrice": "Unit Price",
+      "subTotal": "Sub Total",
+      "total": "Total:",
+      "disclaimer": "Delivery Fee not included",
+      "firstBtn": "Continue Shopping",
+      "secondBtn": "Proceed to Check out",
+      "savedForLater": "Saved for later",
+      "boughtTogether": "Frequently bought together Items"
+    }
+  },
+  "profileAndPassword": {
+    "title": "Profile & Password",
+    "tabOne": "Your personal information",
+    "tabTwo": "Your password",
+    "fullname": "Fullname",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "dateBirth": "Date of Birth",
+    "phone": "Phone numbers",
+    "btnSave": "Save",
+    "btnSendEmail": "Send Email",
+    "btnTextMe": "Text me",
+    "btnCancel": "Cancel",
+    "passwordToMakeUpdate": "Enter your password to make this update.",
+    "sentCode": "We sent a 6 digit code to",
+    "didntGetCode": "Didn’t get a code? Check your spam folder or",
+    "newCode": "Email a new code",
+    "willEmailCode": "We’ll email you a code to verify your email address for security purposes.",
+    "willTextCode": "We'll text you a code to verify your phone number for security purposes. (Carrier charges may apply.)"
+  },
+  "trackOrder": {
+    "title": "Track Order",
+    "searchBarPlaceholder": "Enter your tracking number",
+    "btnText": "Track"
+  },
+  "notFound": {
+    "title": "Oops...this page was not found.",
+    "subtitle": "Not all who wander are lost, unfortunately it feels like you are. Not to worry, we’d help you find your way back!!!",
+    "ctaText": "Go back to Homepage"
+  },
+  "topdeals": {
+    "heading": {
+      "title": "Top Deals"
+    }
+  },
+  "topcategories": {
+    "heading": {
+      "title": "Top Categories"
+    }
+  },
+  "topbanner": {
+    "left": {
+      "titlebold": "Get 30%",
+      "title": "Off the Iphone 12pro",
+      "detail": "iPhone 12. Beautifully bright 6.1-inch Super Retina XDR display."
+    }
+  },
+  "services": {
+    "title": "Airtime & Data",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+    "btnText": "Learn More"
+  },
+  "seller_information": {
+    "body": {
+      "seller_score": "80%",
+      "seller_country": "Country of Origin : Nigeria",
+      "years_on_altmall": "1 Years",
+      "successful_sales": "100+",
+      "order_fulfilment_rate": "Excellent",
+      "quality_score": "Average",
+      "customer_ratings": "Good",
+      "seller_followers": "100 followers",
+      "seller_info_title": "Seller Information",
+      "more_products": "1000 more products in store"
+    }
+  }
+}

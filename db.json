@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "password": "Superman"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "password": "Superman"
+    },
+    {
+      "id": 3,
+      "first_name": "Mr",
+      "last_name": "Doe",
+      "password": "Superman"
+    },
+    {
+      "id": "4",
+      "first_name": "Kanu",
+      "last_name": "Nwankwo",
+      "password": "superman"
+    },
+    {
+      "type": "auth/signupUser",
+      "payload": {
+        "email": "johndoe@test.com",
+        "password": "J1o2h3n4.,",
+        "last_name": "Doe",
+        "first_name": "John"
+      },
+      "id": "WWwRhqR"
+    },
+    {
+      "type": "auth/signupUser",
+      "payload": {
+        "email": "johndoe@test.com",
+        "password": "J1o2h3n4.,",
+        "last_name": "Doe",
+        "first_name": "John"
+      },
+      "id": "f1_gs1Z"
+    },
+    {
+      "type": "auth/signupUser",
+      "payload": {
+        "email": "johndoe@test.com",
+        "password": "J1o2h3n4.,",
+        "last_name": "Doe",
+        "first_name": "John"
+      },
+      "id": "kZ1wz1K"
+    },
+    {
+      "type": "auth/signupUser",
+      "payload": {
+        "email": "johndoe@test.com",
+        "password": "J1o2h3n4.,",
+        "last_name": "Doe",
+        "first_name": "John"
+      },
+      "id": "Z3jFKgq"
+    },
+    {
+      "email": "johndoe@email.com",
+      "password": "J1o2h3n4.,",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "rKM45WE"
+    },
+    {
+      "email": "johndoe@email.com",
+      "password": "J1o2h3n4.,",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "yyv2JZA"
+    },
+    {
+      "email": "johndoe@email.com",
+      "password": "J1o2h3n4.,",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "-RKyOAe"
+    },
+    {
+      "email": "dameeimpact@gmail.com",
+      "password": "@J1o2h3n4.,",
+      "last_name": "Damee",
+      "first_name": "Hameed",
+      "id": "VOkxWLS"
+    },
+    {
+      "email": "dameeimpact@gmail.com",
+      "password": "@J1o2h3n4.,",
+      "last_name": "Damee",
+      "first_name": "Hameed",
+      "id": "9nyhY0O"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "@Password123",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "gWHyog6"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "@Password123",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "XFseR2r"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "OlMlPkx"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "6YLo88e"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "history": {
+        "length": 5,
+        "action": "POP",
+        "location": {
+          "pathname": "/auth/signup",
+          "search": "",
+          "hash": ""
+        }
+      },
+      "id": "ke2s-tZ"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "history": {
+        "length": 6,
+        "action": "POP",
+        "location": {
+          "pathname": "/auth/signup",
+          "search": "",
+          "hash": ""
+        }
+      },
+      "id": "TkG-_-f"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "history": {
+        "length": 6,
+        "action": "POP",
+        "location": {
+          "pathname": "/auth/signup",
+          "search": "",
+          "hash": ""
+        }
+      },
+      "id": "HbH0ne-"
+    },
+    {
+      "id": "gMmhr1P"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "c_dYE5L"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "id": "w1r-ZzY"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "last_name": "Doe",
+      "first_name": "John",
+      "id": "Bfj017f"
+    },
+    {
+      "code": "546445",
+      "id": "DRVrykF"
+    },
+    {
+      "code": "546445",
+      "id": "-_G0qxL"
+    },
+    {
+      "email": "johndoe@test.com",
+      "password": "kMifR42frc2M88@",
+      "id": "4IbU8_Z"
+    },
+    {
+      "password": "kMifR42frc2M88@",
+      "confirmPassword": "kMifR42frc2M88@",
+      "id": "5rN1nze"
+    },
+    {
+      "password": "kMifR42frc2M88@",
+      "confirmPassword": "kMifR42frc2M88@",
+      "id": "Juqfr7H"
+    },
+    {
+      "password": "kMifR42frc2M88@",
+      "confirmPassword": "kMifR42frc2M88@",
+      "id": "lPULys2"
+    },
+    {
+      "password": "kMifR42frc2M88@",
+      "confirmPassword": "kMifR42frc2M88@",
+      "id": "R_puREy"
+    },
+    {
+      "email": "helloworld@you.com",
+      "id": "YF0LTbA"
+    }
+  ]
+}
